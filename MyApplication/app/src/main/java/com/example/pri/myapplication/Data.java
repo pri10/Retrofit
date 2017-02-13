@@ -12,8 +12,8 @@ public class Data{
     public String getImage() {
         return image;
     }
-    public void setImage(String image) {
-        image = image;
+    public void setImage(String images) {
+        images = image;
     }
     private String image;
 }
